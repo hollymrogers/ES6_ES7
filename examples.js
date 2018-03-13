@@ -27,6 +27,7 @@ console.log(fullName);
 
 //4 Modules
 import flashMessage from './flashMessage';
+flashMessage("Hello!");
 
 //5 Destructuring
 let a, b, rest;
