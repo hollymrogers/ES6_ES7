@@ -26,7 +26,7 @@ let fullName = `${first} ${last}`;
 console.log(fullName);
 
 //4 Modules
-
+import flashMessage from './flashMessage';
 
 //5 Destructuring
 let a, b, rest;
