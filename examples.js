@@ -26,8 +26,8 @@ let fullName = `${first} ${last}`;
 console.log(fullName);
 
 //4 Modules
-import flashMessage from './flashMessage';
-flashMessage("Hello!");
+import cube from './test';
+cube(20);
 
 //5 Destructuring
 let a, b, rest;
